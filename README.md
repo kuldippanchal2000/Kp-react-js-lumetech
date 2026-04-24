@@ -88,3 +88,20 @@ Default demo credentials:
 
 - Username: `emilys`
 - Password: `emilyspass`
+
+---
+
+## Screenshots
+
+### Login
+![Login](src/assets/login.png)
+
+### Products
+![Products](src/assets/product.png)
+
+### Cart
+![Cart](src/assets/cart.png)
+
+### After Add to Cart
+![After Add Cart](src/assets/afterAddCart.png)
+
